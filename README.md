@@ -11,3 +11,6 @@
 
 ## Vedio presentation 
 - https://drive.google.com/file/d/1r_KOo04aYaRVfeHGROArWdNUgJna0-X5/view?usp=sharing
+
+## web integration 
+- https://diwakarallu.github.io/Unearthing-The-Environmental-Impact-Of-Human-Activity-A-Global-CO2-Emission-Analysis/
